@@ -1,0 +1,17 @@
+{
+  "errorMessage": {
+    "sum": {
+      "invalidFirstElement": "first element is not a number",
+      "invalidSecondElement": "second element is not a number"
+    },
+    "multiply": {
+      "invalidFirstElement": "first factor is not a number",
+      "invalidSecondElement": "second factor is not a number"
+    },
+    "divide": {
+      "invalidFirstElement": "numerator is not a number",
+      "invalidSecondElement": "denominator is not a number",
+      "divisionByZero": "division by zero"
+    }
+  }
+}
