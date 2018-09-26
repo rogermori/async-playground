@@ -1,6 +1,6 @@
 This project contains a set of asynchronous code examples.
 
-The examples compute the algebraic expression `(2 + 3) * 4 / 2 = 10` asynchronously by using callbacks, promises, and generators.
+The examples compute the algebraic expression `(2 + 3) * 4 / 2 = 10` asynchronously by using callbacks, promises, generators, and thunks.
 
 AsyncPlayground uses [Jest](https://facebook.github.io/jest/) as its test runner.
 
@@ -26,6 +26,7 @@ Checkout this repo, install dependencies, then run the tests and examples:
  callback 
  promise
  generator
+ thunk
 ```
 Each directory contains equivalent code: the math module, tests, and an example 
 
